@@ -1,4 +1,4 @@
-            ![screenshot of sample](http://mnpro.gq/img/about-img-1.gif)[![screenshot of sample](
+  ![screenshot of sample](http://mnpro.gq/img/about-img-1.gif)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655600972889980930/web140.png)](http://mnpro.gq/)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655601493218557952/POOL.png)](https://erex.io/account/signup/?ref=658)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655602215481901112/explorer.png)](https://openchains.info/coin/mnpro/blocks)[![screenshot of sample](
