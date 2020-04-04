@@ -9,7 +9,7 @@ http://mnpro.gq/img/coin.JPG)](https://discord.gg/4UAcFBG)
 
 
 ###  Coin Details
-###  Hash Algo: XEVAN
+###  Hash Algo: X11
 ###  Coin Name: MNpro
 ###  Ticker: MNPR
 ###  Block time: 60 sec
