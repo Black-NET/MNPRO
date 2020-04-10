@@ -16,3 +16,24 @@ https://cdn.discordapp.com/attachments/651853753019924520/655604362688593934/tel
 ###  Masternode collateral: 15000 MNPR
 ###  p2p port: 30228
 
+rpcuser=adminuser
+rpcpassword=PassWorld
+rpcallowip=
+txindex=1
+listen=1
+server=1
+daemon=1
+rpcport=30228
+port=30229
+maxconnections=256
+#bind=
+masternode=1
+masternodeaddr=
+masternodeprivkey=
+#ADDNODES
+addnode=95.181.178.100:30229
+addnode=95.181.178.172:30229
+addnode=31.131.21.30:30229
+addnode=31.131.16.37:30229
+addnode=193.111.63.154:30229
+
