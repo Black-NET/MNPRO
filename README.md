@@ -15,7 +15,8 @@ https://cdn.discordapp.com/attachments/651853753019924520/655604362688593934/tel
 ###  Max Supply: 50 MILLION
 ###  Masternode collateral: 15000 MNPR
 ###  p2p port: 30228
-
+=============================================================
+## MNPRO.conf
 ###  rpcuser=adminuser
 ###  rpcpassword=PassWorld
 ###  rpcallowip=
