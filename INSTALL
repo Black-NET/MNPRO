@@ -2,6 +2,14 @@ Building MNPRO
 
 Use the autogen script to prepare the build environment.
 
+git clone https://github.com/Black-NET/MNPRO.git
+
+cd /root/MNPRO
+
+chmod 755 autogen.sh
+
+chmod 755 configure
+
     ./autogen.sh
     ./configure
     make
