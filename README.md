@@ -1,36 +1,36 @@
-MNPRO:TICKER: MNPR
-COIN NAME: Mnpro
-GITHUB: https://github.com/Black-NET
-MNPro Install: https://github.com/Black-NET/MNPro_Install
-MNPRO releases: https://github.com/Black-NET/MNPRO/releases
-BITCOINTALK: https://bitcointalk.org/index.php?topic=5243458
-WEBSITE: https://mnpro.gq
-Explorer: https://explorer-mnpro.gq
-Wallets:
-Windows
-64 BIT: https://mnpro.gq/64BIT/mnpro-qt.exe
-32 BIT: https://mnpro.gq/32BIT/mnpro-qt.exe
-Linux
-Ubuntu 16.04: https://mnpro.gq/Ubuntu16.04
-Exchange: 
-https://erex.io/exchange/MNPR/BTC
-https://erex.io/exchange/MNPR/ETH
-https://erex.io/exchange/MNPR/DOGE
-https://erex.io/exchange/MNPR/USDT 
-https://erex.io/exchange/MNPR/EREX
-Partners
-CoinMarketCap: https://coinmarketcap.com/currencies/mnpro/
-FaceBook: https://www.facebook.com/MNpro.Coin
-Сoingecko: https://www.coingecko.com/en/coins/mnpro 
-Coinpaprika: https://coinpaprika.com/coin/mnpr-mnpro
-Mnroi: https://www.mnroi.info/coin/MNPR
-OpenChains: https://openchains.info/coin/mnpro/blocks 
-YouTube: http://auditor.ga/YouTube
-DiscorD: https://discord.gg/SdYSTVw
-Telegram: https://t.me/mnpro
-Twitter: https://twitter.com/MNproCoin 
-Twitch: https://www.twitch.tv/mnprocoin 
-**
+### MNPRO:TICKER: MNPR
+### COIN NAME: Mnpro
+### GITHUB: https://github.com/Black-NET
+### MNPro Install: https://github.com/Black-NET/MNPro_Install
+### MNPRO releases: https://github.com/Black-NET/MNPRO/releases
+### BITCOINTALK: https://bitcointalk.org/index.php?topic=5243458
+### WEBSITE: https://mnpro.gq
+### Explorer: https://explorer-mnpro.gq
+### Wallets:
+### Windows
+### 64 BIT: https://mnpro.gq/64BIT/mnpro-qt.exe
+### 32 BIT: https://mnpro.gq/32BIT/mnpro-qt.exe
+### Linux
+### Ubuntu 16.04: https://mnpro.gq/Ubuntu16.04
+### Exchange: 
+### https://erex.io/exchange/MNPR/BTC
+### https://erex.io/exchange/MNPR/ETH
+### https://erex.io/exchange/MNPR/DOGE
+### https://erex.io/exchange/MNPR/USDT 
+### https://erex.io/exchange/MNPR/EREX
+### Partners
+### CoinMarketCap: https://coinmarketcap.com/currencies/mnpro/
+### FaceBook: https://www.facebook.com/MNpro.Coin
+### Сoingecko: https://www.coingecko.com/en/coins/mnpro 
+### Coinpaprika: https://coinpaprika.com/coin/mnpr-mnpro
+### Mnroi: https://www.mnroi.info/coin/MNPR
+### OpenChains: https://openchains.info/coin/mnpro/blocks 
+### YouTube: http://auditor.ga/YouTube
+### DiscorD: https://discord.gg/SdYSTVw
+### Telegram: https://t.me/mnpro
+### Twitter: https://twitter.com/MNproCoin 
+### Twitch: https://www.twitch.tv/mnprocoin 
+
 
 ![screenshot of sample](http://mnpro.gq/img/about-img-1.gif)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655600972889980930/web140.png)](http://mnpro.gq/)[![screenshot of sample](
