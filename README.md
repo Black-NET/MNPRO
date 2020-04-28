@@ -1,4 +1,4 @@
-### MNPRO:TICKER: MNPR
+### TICKER: MNPR
 ### COIN NAME: Mnpro
 ### GITHUB: https://github.com/Black-NET
 ### MNPro Install: https://github.com/Black-NET/MNPro_Install
