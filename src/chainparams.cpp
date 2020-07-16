@@ -182,6 +182,13 @@ public:
 		vSeeds.push_back(CDNSSeedData("45.32.22.184", "45.32.22.184"));               // Single node address
 		vSeeds.push_back(CDNSSeedData("63.211.111.86", "63.211.111.86"));             // Single node address
 		vSeeds.push_back(CDNSSeedData("144.202.70.111", "144.202.70.111"));           // Single node address
+		vSeeds.push_back(CDNSSeedData("83.85.19.34", "83.85.19.34"));           // Single node address
+		vSeeds.push_back(CDNSSeedData("142.44.196.227", "142.44.196.227"));           // Single node address
+		vSeeds.push_back(CDNSSeedData("134.249.108.5", "134.249.108.5"));           // Single node address
+		vSeeds.push_back(CDNSSeedData("78.141.223.142", "78.141.223.142"));           // Single node address
+		vSeeds.push_back(CDNSSeedData("118.69.50.155", "118.69.50.155"));           // Single node address
+		vSeeds.push_back(CDNSSeedData("115.231.31.130", "115.231.31.130"));           // Single node address
+		vSeeds.push_back(CDNSSeedData("105.27.238.166", "105.27.238.166"));           // Single node address
 
         // MNPRO addresses start with 'G'
 		base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 50);
